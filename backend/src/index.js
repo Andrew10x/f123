@@ -11,8 +11,8 @@ const x =
   'qqqqqqqqqqqqqqqqqqq' +
   'qqqqqqqqqqqqqq';
 
-console.log(x, a);
-foo('Denis');
+console.log(x, a)
+foo('Denis')
 
 const arrow = () => {
   console.log('arrow');
